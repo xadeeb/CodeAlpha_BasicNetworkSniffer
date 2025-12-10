@@ -1,4 +1,4 @@
-# CodeAlpha - Basic Network Sniffer
+# Codec - Basic Network Sniffer
 
 This project is a simple Python-based network packet sniffer built using the `scapy` library.
 
